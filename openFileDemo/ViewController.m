@@ -1,10 +1,5 @@
-//
-//  ViewController.m
-//  FileTest
-//
-//  Created by zhaohaifang on 2017/2/23.
-//  Copyright © 2017年 iOS开发部YH. All rights reserved.
-//
+//  openFileDemo ViewController.m
+//  Created 2017/2/23.
 
 #import "ViewController.h"
 #import "YHPreviewController.h"

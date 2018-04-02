@@ -1,9 +1,5 @@
-//
-//  YHPreviewController.h
-//  FileTest
-//
-//  Created by zhaohaifang on 2017/2/24.
-//  Copyright © 2017年 iOS开发部YH. All rights reserved.
+//  openFileDemo YHPreviewController.h
+//  Created 2017/2/23.
 //  使用QLPreviewController 需要导入框架QuickLook.framework
 
 #import <QuickLook/QuickLook.h>

@@ -1,10 +1,5 @@
-//
-//  AppDelegate.m
-//  openFileDemo
-//
-//  Created by zhaohaifang on 2017/3/9.
-//  Copyright © 2017年 ghost__. All rights reserved.
-//
+//  openFileDemo Appdelegate.m
+//  Created 2017/2/23.
 
 #import "AppDelegate.h"
 #import "ViewController.h"

@@ -1,11 +1,5 @@
-//
-//  QLPreviewController介绍.h
-//  FileTest
-//
-//  Created by zhaohaifang on 2017/2/23.
-//  Copyright © 2017年 iOS开发部YH. All rights reserved.
-//  
-
+//  openFileDemo QLPreviewController介绍.h
+//  Created 2017/2/23.
 
 
 //是否可以打开指定路径的文件   item传路径url  进入QLPreviewItem 最后看到NSURL子类遵守了<QLPreviewItem>

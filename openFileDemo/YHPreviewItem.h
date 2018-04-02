@@ -1,9 +1,5 @@
-//
-//  YHPreviewItem.h
-//  FileTest
-//
-//  Created by zhaohaifang on 2017/2/24.
-//  Copyright © 2017年 iOS开发部YH. All rights reserved.
+//  openFileDemo YHPreviewItem.h
+//  Created 2017/2/23.
 
 #import <Foundation/Foundation.h>
 #import <QuickLook/QuickLook.h>

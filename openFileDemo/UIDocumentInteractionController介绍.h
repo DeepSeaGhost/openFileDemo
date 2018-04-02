@@ -1,10 +1,5 @@
-//
-//  UIDocumentInteractionController介绍.h
-//  FileTest
-//
-//  Created by zhaohaifang on 2017/2/23.
-//  Copyright © 2017年 iOS开发部YH. All rights reserved.
-//
+//  openFileDemo UIDocumentInteractionController介绍.h
+//  Created 2017/2/23.
 
 + (UIDocumentInteractionController *)interactionControllerWithURL:(NSURL *)url; // 创建并设置文件URL路径
 
