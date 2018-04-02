@@ -14,6 +14,7 @@
 		1DB2FE271E70E96100BB4AD2 /* YHOpenFileTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DB2FE261E70E96100BB4AD2 /* YHOpenFileTool.m */; };
 		1DB2FE2D1E70E97400BB4AD2 /* YHPreviewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DB2FE2A1E70E97400BB4AD2 /* YHPreviewController.m */; };
 		1DB2FE2E1E70E97400BB4AD2 /* YHPreviewItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 1DB2FE2C1E70E97400BB4AD2 /* YHPreviewItem.m */; };
+		EAAA34442071DE9F0064E73B /* PHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAAA34422071DE9F0064E73B /* PHViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		1DB2FE2A1E70E97400BB4AD2 /* YHPreviewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHPreviewController.m; sourceTree = "<group>"; };
 		1DB2FE2B1E70E97400BB4AD2 /* YHPreviewItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YHPreviewItem.h; sourceTree = "<group>"; };
 		1DB2FE2C1E70E97400BB4AD2 /* YHPreviewItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YHPreviewItem.m; sourceTree = "<group>"; };
+		EAAA34422071DE9F0064E73B /* PHViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PHViewController.m; sourceTree = "<group>"; };
+		EAAA34432071DE9F0064E73B /* PHViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PHViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,8 @@
 				1DB2FE0E1E70E4FD00BB4AD2 /* AppDelegate.m */,
 				1DB2FE211E70E95500BB4AD2 /* ViewController.h */,
 				1DB2FE221E70E95500BB4AD2 /* ViewController.m */,
+				EAAA34432071DE9F0064E73B /* PHViewController.h */,
+				EAAA34422071DE9F0064E73B /* PHViewController.m */,
 				1DB2FE241E70E96100BB4AD2 /* UIDocumentInteractionController介绍.h */,
 				1DB2FE251E70E96100BB4AD2 /* YHOpenFileTool.h */,
 				1DB2FE261E70E96100BB4AD2 /* YHOpenFileTool.m */,
@@ -165,6 +170,7 @@
 				1DB2FE231E70E95500BB4AD2 /* ViewController.m in Sources */,
 				1DB2FE0F1E70E4FD00BB4AD2 /* AppDelegate.m in Sources */,
 				1DB2FE2D1E70E97400BB4AD2 /* YHPreviewController.m in Sources */,
+				EAAA34442071DE9F0064E73B /* PHViewController.m in Sources */,
 				1DB2FE2E1E70E97400BB4AD2 /* YHPreviewItem.m in Sources */,
 				1DB2FE0C1E70E4FD00BB4AD2 /* main.m in Sources */,
 			);

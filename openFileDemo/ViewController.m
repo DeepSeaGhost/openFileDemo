@@ -4,6 +4,7 @@
 #import "ViewController.h"
 #import "YHPreviewController.h"
 #import "YHOpenFileTool.h"
+#import "PHViewController.h"
 
 @interface ViewController ()<UIDocumentInteractionControllerDelegate>
 
@@ -23,6 +24,9 @@
     [self.navigationController.navigationBar setTitleTextAttributes:@{NSForegroundColorAttributeName : [UIColor blackColor]}];
     [self.navigationController.navigationBar setTintColor:[UIColor blackColor]];
     [self.navigationController.navigationBar setBarTintColor:[UIColor whiteColor]];
+    
+    //无导航栏与标签栏预览
+    self.navigationItem.rightBarButtonItem = [[UIBarButtonItem alloc]initWithTitle:@"nothing" style:UIBarButtonItemStyleDone target:self action:@selector(nothingClick)];
     
     
     
@@ -72,6 +76,10 @@
     
     //QLPreviewController
     [self preViewController];
+}
+//无导航栏与标签栏预览
+- (void)nothingClick {
+    [self presentViewController:[[UINavigationController alloc] initWithRootViewController:[[PHViewController alloc]init]] animated:YES completion:nil];
 }
 
 
